@@ -25,8 +25,8 @@ sbt test
 
 - [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) 7
 - [Scala](http://www.scala-lang.org/) 2.11.7
-- [SBT](http://www.scala-sbt.org/) 0.13.8
-- [Spray.io](http://spray.io/) 1.3.2
+- [SBT](http://www.scala-sbt.org/) 0.13.9
+- [Spray.io](http://spray.io/) 1.3.3
 - [Akka](http://akka.io/) 2.3.12
 - [ScalaTest](http://scalatest.org/) 2.2.5
 

@@ -21,10 +21,10 @@ resolvers ++= Seq(
 )
 
 val sprayVersion = "1.3.3"
-val slickVersion = "3.0.2"
-val logbackVersion =  "1.1.3"
+val slickVersion = "3.1.0"
+val logbackVersion = "1.1.3"
 val scalaLoggingVersion = "2.1.2"
-val postgresqlVersion = "9.4-1201-jdbc41"
+val postgresqlVersion = "9.4-1206-jdbc41"
 val postgisVersion = "1.3.3"
 val gdalVersion = "2.0.0"
 val akkaVersion = "2.3.12"
